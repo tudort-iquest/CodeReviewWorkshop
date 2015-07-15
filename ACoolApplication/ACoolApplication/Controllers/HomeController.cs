@@ -15,14 +15,14 @@ namespace ACoolApplication.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "My cool aplication.";
+            ViewBag.Message = "My cool aplication 1.0.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Tudor contact page.";
 
             return View();
         }
