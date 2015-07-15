@@ -15,7 +15,7 @@ namespace ACoolApplication.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "My cool aplication.";
 
             return View();
         }
