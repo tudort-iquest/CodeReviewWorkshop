@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACoolApplication", "ACoolApplication\ACoolApplication.csproj", "{3EC9FCFA-9554-4FBE-804C-69585416AFE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACoolApplication.Tests", "ACoolApplication.Tests\ACoolApplication.Tests.csproj", "{5C8A9222-69E8-4FE1-9CDB-82455F0E55BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC9FCFA-9554-4FBE-804C-69585416AFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC9FCFA-9554-4FBE-804C-69585416AFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC9FCFA-9554-4FBE-804C-69585416AFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC9FCFA-9554-4FBE-804C-69585416AFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8A9222-69E8-4FE1-9CDB-82455F0E55BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8A9222-69E8-4FE1-9CDB-82455F0E55BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8A9222-69E8-4FE1-9CDB-82455F0E55BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8A9222-69E8-4FE1-9CDB-82455F0E55BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
